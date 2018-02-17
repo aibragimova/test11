@@ -1,0 +1,11 @@
+.idea
+.idea/*
+.idea/libraries
+.idea/.name
+.idea/workspace.xml
+/.idea/workspace.xml
+*.log
+*.iml
+*.ipr
+*.iws
+HW5.txt
